@@ -1,0 +1,9 @@
+a {
+  background-color: red;
+}
+
+body {
+  background-image: url("JavelinBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
